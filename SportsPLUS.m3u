@@ -10,3 +10,6 @@ http://93.174.95.125:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasess
 #EXTM3U  
 #EXTINF:-1 tvg-id="beIN_SPORTS_XTRA" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.imgur.com/uJosqHh.png",beIN SPORTS XTRA  
 https://apollo.production-public.tubi.io/live/ac-bein.m3u8  
+#EXTM3U  
+#EXTINF:-1 tvg-id="Big_Ten_Network" tvg-name="Big Ten Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png",Big Ten Network  
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8  
