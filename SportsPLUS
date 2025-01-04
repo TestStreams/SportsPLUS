@@ -1,3 +1,6 @@
 #EXTM3U  
 #EXTINF:-1 tvg-id="ABC_East" tvg-name="ABC East" tvg-logo="https://i.ibb.co/X4Rjfpd/abc-east-logo.png",ABC East  
 http://143.244.60.30/ABC_EAST/index.m3u8
+#EXTM3U  
+#EXTINF:-1 tvg-id="ACC_Network" tvg-name="ACC Network" tvg-logo="https://i.ibb.co/TmfcwR6/acc-network-logo.png",ACC Network  
+https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playlist.m3u8  
