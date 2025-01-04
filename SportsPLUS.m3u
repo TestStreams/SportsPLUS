@@ -13,3 +13,6 @@ https://apollo.production-public.tubi.io/live/ac-bein.m3u8
 #EXTM3U  
 #EXTINF:-1 tvg-id="Big_Ten_Network" tvg-name="Big Ten Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png",Big Ten Network  
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8  
+#EXTM3U
+#EXTINF:-1 tvg-id="CBS_Sports_Network" tvg-name="CBS Sports" tvg-logo="https://i.imgur.com/A8CnA8g.png",CBS Sports
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
