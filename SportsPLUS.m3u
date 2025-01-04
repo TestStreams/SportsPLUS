@@ -7,3 +7,6 @@ https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playl
 #EXTM3U
 #EXTINF:0,beIN Sport
 http://93.174.95.125:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694
+#EXTM3U  
+#EXTINF:-1 tvg-id="beIN_SPORTS_XTRA" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.imgur.com/uJosqHh.png",beIN SPORTS XTRA  
+https://apollo.production-public.tubi.io/live/ac-bein.m3u8  
