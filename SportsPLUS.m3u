@@ -5,8 +5,6 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ACC_Network" tvg-name="ACC Network" tvg-logo="https://i.ibb.co/TmfcwR6/acc-network-logo.png",ACC Network  
 https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playlist.m3u8
 #EXTM3U
-#EXTINF:0,beIN Sport
-http://93.174.95.125:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8
 #EXTM3U  
 #EXTINF:-1 tvg-id="beIN_SPORTS_XTRA" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.imgur.com/uJosqHh.png",beIN SPORTS XTRA  
 https://apollo.production-public.tubi.io/live/ac-bein.m3u8
